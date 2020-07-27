@@ -18,4 +18,4 @@
 Sign into github website
 Create new repository
 Create basic markdown file for readme.
-![What is this](1.png)
+![What is this](https://github.com/Staffing07/git-how2-starting-new-project/blob/master/Git/Starting-new-git-project/1.png?raw=true)
